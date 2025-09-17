@@ -1,0 +1,32 @@
+{
+  "network": "devnet",
+  "timestamp": "2025-09-16T12:48:54.440Z",
+  "transaction": "2T7Vb9KLWv83Pa12vENHaMectuV14WVWWanBPaFmcMgCuA6fCdUuMNPK2fHB7pMPGGz1hJNcN87ya882GTqpL1rE",
+  "poolAddress": "7putmmuGfFUKfqUdu4Scr16iYQvmpAT7NpAtTAvzoBTv",
+  "tokenMint": "H9tMusabLgceRCo8QJp1DxTbbnmccYTUHDUiGHuLvMuM",
+  "tokenDecimals": 8,
+  "sellAmount": {
+    "raw": "200000000000",
+    "decimal": 2000
+  },
+  "results": {
+    "tokensSold": {
+      "raw": "200000000000",
+      "decimal": 2000
+    },
+    "solReceived": {
+      "lamports": "2222194",
+      "sol": 0.002222194
+    },
+    "effectivePrice": "0.000001111"
+  },
+  "poolStateBefore": {
+    "reserveToken": "93357702825889",
+    "reserveSol": "1074078197"
+  },
+  "poolStateAfter": {
+    "reserveToken": "93557702825889",
+    "reserveSol": "1071782121"
+  },
+  "explorerLink": "https://explorer.solana.com/tx/2T7Vb9KLWv83Pa12vENHaMectuV14WVWWanBPaFmcMgCuA6fCdUuMNPK2fHB7pMPGGz1hJNcN87ya882GTqpL1rE?cluster=devnet"
+}
